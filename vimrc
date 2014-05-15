@@ -16,6 +16,7 @@ set tabstop=4           " Set tabstop
 set softtabstop=4       " Set soft tabstop
 set smarttab            " Use smart tabbing
 set smartindent         " Use smart indentation
+set number
 
 
 " Appearance
